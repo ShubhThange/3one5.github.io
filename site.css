@@ -2,7 +2,7 @@ body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
     background-color: rgb(216, 25, 25);
-    color: #df15df;
+    color: #140214c5;
     padding: 3px;
 }
 
@@ -10,7 +10,7 @@ body {
     padding: 5px;
     padding-left:  15px;
     padding-right: 15px;
-    background-color: #7c6d6d59;
+    background-color: #f3e6e6ec;
     border-radius: 0 0 5px 5px;
 }
 
